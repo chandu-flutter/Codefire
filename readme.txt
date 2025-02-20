@@ -33,4 +33,9 @@ The link https://codefire.chandu-port.in/ contains the cpt(jobs),woocommerce che
 
 it is 100% responsive.
 checked the speed in web and it is 92 
+====================================================
+Access the dashboard
+https://codefire.chandu-port.in/wp-login.php
+chandu.christ@gmail.com
+@#ZuZTMvx96UQjhbN3UB3W$b
 
